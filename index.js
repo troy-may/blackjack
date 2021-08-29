@@ -25,6 +25,7 @@ messageEl.textContent = message
 
 function newCard() {
     console.log("Drawing a new card from the deck!")
+    let card = 1
+    sum += card
+    startGame()
 }
-
-console.log(newCard)
